@@ -33,7 +33,7 @@ This project is designed to forecast the number of receipts scanned for a specif
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/timeseries-receipt-prediction.git
+   git clone https://github.com/harrish123/timeseries.git
    cd timeseries-receipt-prediction
    ```
 
