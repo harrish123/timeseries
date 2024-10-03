@@ -34,7 +34,7 @@ This project is designed to forecast the number of receipts scanned for a specif
 1. Clone the repository:
    ```bash
    git clone https://github.com/harrish123/timeseries.git
-   cd timeseries-receipt-prediction
+   cd timeseries
    ```
 
 2. Install the necessary dependencies:
@@ -44,7 +44,7 @@ This project is designed to forecast the number of receipts scanned for a specif
 
 3. Make sure PyTorch is installed with GPU support (optional). For CUDA support, install the latest version of PyTorch with CUDA:
    ```bash
-   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   pip install torch --index-url https://download.pytorch.org/whl/cu118
    ```
 
 4. Run the Flask app:
